@@ -1,0 +1,1 @@
+var json_Ghat_16 = {"type":"FeatureCollection","name":"Ghat_16","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Id":0.0,"Name":"Chaginiyamthadam Kulikadavu Ghat DR","Ward":"12"},"geometry":{"type":"Point","coordinates":[76.786102999999628,9.711703]}}]}
